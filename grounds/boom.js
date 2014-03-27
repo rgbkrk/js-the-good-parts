@@ -1,4 +1,4 @@
-document.writeln("BOOM! Browser lets you write like this, node does not.")
+document.writeln("BOOM! Browser lets you write like this, node does not.");
 
 // For some reason this is how they define new methods
 Function.prototype.method = function (name, func) {
